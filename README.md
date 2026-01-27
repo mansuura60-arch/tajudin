@@ -2,7 +2,7 @@
 
 tajudin is a small JavaScript library that demonstrates functionality for the js.org example.
 
-Demo: https://<your-username>.github.io/<your-repo>/
+Demo: https://mansuura60-arch.github.io/tajudin/
 
 How to use
 1. Install: `npm install tajudin` (if published)
