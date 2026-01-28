@@ -1,11 +1,9 @@
 {
-  "name": "tajudin",
+  "name": "tajudin-utils",
   "version": "0.1.0",
-  "description": "tajudin — small example JS library",
-  "main": "index.js",
-  "keywords": ["js", "library"],
-  "license": "MIT",
-  "scripts": {
-    "build": "echo \"no build step\""
-  }
+  "description": "A lightweight JavaScript utility toolkit with reusable helper functions.",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": ["javascript", "utilities", "helpers", "toolkit"],
+  "license": "MIT"
 }
