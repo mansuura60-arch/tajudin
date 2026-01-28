@@ -1,0 +1,11 @@
+{
+  "name": "tajudin",
+  "version": "0.1.0",
+  "description": "tajudin — small example JS library",
+  "main": "dist/tajudin.mjs",
+  "keywords": ["js", "library"],
+  "license": "MIT",
+  "scripts": {
+    "build": "echo \"no build step\""
+  }
+}
