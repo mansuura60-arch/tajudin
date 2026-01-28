@@ -10,8 +10,8 @@ How to use
 
 Repository structure
 - index.html — demo page used by GitHub Pages
-- src/ — JavaScript source (if present)
+- src/ — source files (ES module)
+- dist/ — built bundles (UMD / ESM)
 - package.json — npm metadata
 - LICENSE — license file
-
 License: MIT
