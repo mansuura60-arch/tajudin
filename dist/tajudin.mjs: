@@ -1,0 +1,4 @@
+<script type="module">
+  import { greet } from './dist/tajudin.mjs';
+  document.getElementById('out').textContent = greet('js.org visitor');
+</script>
