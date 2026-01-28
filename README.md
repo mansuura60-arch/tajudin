@@ -1,17 +1,17 @@
-# tajudin
+# Tajudin Utils
 
-tajudin is a small JavaScript library that demonstrates functionality for the js.org example.
+A lightweight JavaScript utility toolkit providing reusable helper functions
+for modern web and frontend development.
 
-Demo: https://mansuura60-arch.github.io/tajudin/
+## Features
+- Small, focused utility functions
+- Written in plain JavaScript
+- Designed for reuse across JS projects
 
-How to use
-1. Install: `npm install tajudin` (if published)
-2. Or open the demo page linked above to see the library in action.
+## Example
 
-Repository structure
-- index.html — demo page used by GitHub Pages
-- src/ — source files (ES module)
-- dist/ — built bundles (UMD / ESM)
-- package.json — npm metadata
-- LICENSE — license file
-License: MIT
+```js
+import { formatName } from "./src/string/formatName.js";
+
+formatName("Tajudin", "Ahmed");
+// → "Tajudin Ahmed"
